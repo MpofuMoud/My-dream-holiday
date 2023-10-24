@@ -1,0 +1,50 @@
+body {
+  background-color: aqua;
+}
+
+.container {
+  background-color: #faebd7;
+  text-align: center;
+  display: block;
+  margin: 10px auto;
+  font-family: "Times New Roman", Times, serif;
+  max-width: 1500px;
+  padding: 10px;
+  border: 2px solid black;
+  border-radius: 10px;
+}
+.header {
+  font-size: 50px;
+  font-weight: bolder;
+  color: blue;
+}
+.seoul img {
+  border: 1px solid;
+  border-radius: 10px;
+  width: 600px;
+}
+.h2 {
+  font-size: 30px;
+}
+.col {
+  border: 1px solid blueviolet;
+  border-radius: 10px;
+  box-shadow: 20px;
+}
+.col img {
+  border-radius: 10px;
+  width: 300px;
+  gap: 5px;
+}
+small {
+  font-weight: lighter;
+  font-family: cursive;
+  font-style: italic;
+}
+strong {
+  color: blueviolet;
+  font-size: 18px;
+}
+.activities img {
+  text-align: left;
+}
