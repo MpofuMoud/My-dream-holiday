@@ -31,7 +31,7 @@ body {
   border-radius: 10px;
   box-shadow: 20px;
 }
-.col img {
+.gallery img {
   border-radius: 10px;
   width: 300px;
   gap: 5px;
@@ -45,6 +45,19 @@ strong {
   color: blueviolet;
   font-size: 18px;
 }
-.activities img {
-  text-align: left;
+.activities {
+  border: none;
+}
+button {
+  background-color: aqua;
+  color: black;
+  border: 1px solid aqua;
+  border-radius: 10px;
+  box-shadow: 20px;
+  transition: all 200ms ease-in-out;
+  box-shadow: 3px;
+}
+button:hover {
+  background: blueviolet;
+  cursor: pointer;
 }
