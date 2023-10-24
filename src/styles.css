@@ -8,7 +8,7 @@ body {
   display: block;
   margin: 10px auto;
   font-family: "Times New Roman", Times, serif;
-  max-width: 1500px;
+  max-width: 100%;
   padding: 10px;
   border: 2px solid black;
   border-radius: 10px;
